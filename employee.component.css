@@ -1,0 +1,5 @@
+.classUnderline {  text-decoration: underline;}
+.classItalics { font-style: italics;font-weight: bold; }
+.classColor { color:red;}
+.boldClass{font-weight: bold; 
+background-color:rgb(120, 250, 120); size:50%; width: 500%;}
